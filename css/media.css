@@ -25,6 +25,11 @@
     top: 40%;
   }
 
+  .client_details p{
+    margin-right: 20px;
+  }
+  
+
 
 }
 
@@ -85,6 +90,9 @@
     display: none;
   }
 
+
+  
+  
 
  
   
@@ -199,6 +207,7 @@
   .owl-nav {
     display: none;
   }
+
 
 
 
